@@ -1,6 +1,9 @@
-                                               ## Hello I´m Carlos Andres Castro Murillo 👋
-                                                          ## DATA ANALYST
-<!--
+                                               # Hello I´m Carlos Andres Castro Murillo 👋
+                                                          # DATA ANALYST
+-                                     
+# ABOUT ME
+- Data Analyst with experience in data extraction, transformation and visualization. Training in Data Analytics, Marketing and Sales Management, and Engineering. Mastery of Python, SQL, Power BI and BigQuery, with knowledge in basic Machine Learning. Passionate about data-driven decision making, process optimization and generation of strategic insights.
+<!--    JHHJKKK
 **CarlosDataAnalyst/CarlosDataAnalyst** is a Data Analyst✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
